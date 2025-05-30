@@ -1,16 +1,11 @@
-import React from 'react'
-import Navbar from '../Components/Navbar';
-import HeroSection from '../Components/Hero-Section';
-import Footer from '../Components/Footer';
+import React from "react";
+import AboutSection from "../Components/About-Section";
 
 function AboutPages() {
-  return (
-    <div>
-      <Navbar />
-      <HeroSection />
-      <Footer />
-    </div>
-  );
+  return(
+    
+    <AboutSection />
+  )
 }
 
-export default AboutPages
+export default AboutPages;

@@ -1,15 +1,12 @@
 import React from 'react'
 import Navbar from '../Components/Navbar';
 import HeroSection from '../Components/Hero-Section';
-import Footer from '../Components/Footer';
+import {Routes,Route} from 'react-router' ;
+import KontakSection from '../Components/Kontak-Section';
 
 function Kontak() {
   return (
-    <div>
-      <Navbar />
-      <HeroSection />
-      <Footer />
-    </div>
+    <KontakSection/>
   );
 }
 

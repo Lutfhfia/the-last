@@ -38,7 +38,7 @@ function Navbar() {
             </a>
           </li>
           <li>
-            <a href="/about" className="hover:text-blue-950">
+            <a href="/shop" className="hover:text-blue-950">
               Shop
             </a>
           </li>

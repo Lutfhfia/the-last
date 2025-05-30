@@ -9,7 +9,7 @@ function Navbar() {
         {/*div logo*/}
         <div className="flex items-center gap-2">
           <img className="size-14.5 rounded-4xl" src="Logofix.png"/>
-          <h1 className="font-bold text-xl text-blue-950">SINTAX.</h1>
+          <h1 className="font-bold text-xl text-blue-950">REVIBES.</h1>
         </div>
         <label className="input">
           <svg

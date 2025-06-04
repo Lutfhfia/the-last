@@ -53,12 +53,12 @@ function Navbar() {
             </a>
           </li>
           <li>
-            <a href="/about" className="hover:text-blue-950">
+            <a href="/keranjang" className="hover:text-blue-950">
               <ShoppingBag />
             </a>
           </li>
           <li>
-            <a href="/about" className="hover:text-blue-950">
+            <a href="/pesan" className="hover:text-blue-950">
               <MessageCircle />
             </a>
           </li>

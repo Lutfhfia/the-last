@@ -7,7 +7,6 @@ function AboutSection() {
     <div>
       <div>
         <Navbar />
-        <HeroSection />
         <div className="bg-gray-50 min-h-screen py-12 px-6 lg:px-24">
           <div className="max-w-6xl mx-auto bg-white shadow-xl rounded-2xl overflow-hidden">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

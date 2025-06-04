@@ -3,6 +3,7 @@ import Navbar from "../Components/Navbar";
 import HeroSection from "../Components/Hero-Section";
 import {Routes, Route} from 'react-router';
 import ShopPage from "../Components/ShopPage";
+import KontakSection from "../Components/Kontak-Section";
 
 export default function HomePage() {
   return (
@@ -10,6 +11,7 @@ export default function HomePage() {
       <Navbar/>
       <HeroSection />
       <ShopPage/>
+      
       
     </div>
   );

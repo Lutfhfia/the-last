@@ -1,4 +1,3 @@
-import alert from "daisyui/components/alert";
 import React, { useState } from "react";
 
 const products = [

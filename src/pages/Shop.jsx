@@ -1,6 +1,6 @@
 import React from 'react'
 import ShopPage from '../Components/ShopPage'
-import {Routes, Route} from 'react-router';
+import {Routes, Route} from 'react-router-dom';
 import Navbar from '../Components/Navbar';
 
 

@@ -5,9 +5,9 @@ function Navbar() {
   return (
     <header className="sticky top-0 border border-gray-500 bg-white/80">
       {/*div pembungkus*/}
-      <div className="flex max-w-7xl mx-auto justify-between h-16 items-center px-4">
+      <div className="flex max-w-7xl mx-auto justify-between h-16 items-center px-4 ">
         {/*div logo*/}
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 ">
           <img className="size-14.5 rounded-4xl" src="Logofix.png"/>
           <h1 className="font-bold text-xl text-blue-950">REVIBES.</h1>
         </div>

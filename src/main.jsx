@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import {BrowserRouter, Route, Routes} from 'react-router'
+import {BrowserRouter, Route, Routes} from 'react-router-dom'
 import HomePage from './pages/HomePage'
 import KontakSection from './Components/Kontak-Section'
 import AboutPages from './pages/AboutPages'
